@@ -1,0 +1,9 @@
+10/09/2014
+
+1. crear una repo en github
+2. $ git clone <URL>
+3. $ cd <nombre de la repo>
+4. Creamos un fichero y lo editamos
+5. $ git add <fichero>
+6. $ git commit -am "comentario"
+7. $ git push origin master
